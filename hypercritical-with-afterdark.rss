@@ -4,7 +4,7 @@
     <fireside:hostname>feed03.fireside.fm</fireside:hostname>
     <fireside:genDate>Wed, 18 May 2022 12:45:48 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
-    <title>Hypercritical</title>
+    <title>Hypercritical with After Dark</title>
     <link>https://hypercritical.fireside.fm</link>
     <pubDate>Wed, 02 Feb 2022 15:22:01 -0000</pubDate>
     <description>A weekly talk show ruminating on exactly what is wrong in the world of Apple and related technologies and businesses.  Nothing is so perfect that it can't be complained about. Hosted by John Siracusa &amp; Dan Benjamin.
@@ -26,6 +26,32 @@
 <itunes:category text="News">
   <itunes:category text="Tech News"/>
 </itunes:category>
+    <item>
+      <title>After Dark Episode 318: 318: After Hypercritical #100</title>
+      <link>https://afterdark.fireside.fm/318</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/318</guid>
+      <pubDate>Fri, 28 Dec 2012 15:30:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/93ec5dcd-7430-4315-a3eb-72454a631453.mp3" length="11531364" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>John &amp; Dan talk after Hypercritical episode 100.</itunes:subtitle>
+      <itunes:duration>23:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;John &amp;amp; Dan talk after Hypercritical episode 100.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>John &amp; Dan talk after Hypercritical episode 100.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>John &amp; Dan talk after Hypercritical episode 100.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+Ay3OivLk</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+Ay3OivLk" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
     <item>
       <title>Episode 100: 100: Metacritical</title>
       <link>https://hypercritical.fireside.fm/100</link>
@@ -55,6 +81,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+vODkHu8J</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+vODkHu8J" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 313: 313: After Hypercritical #99</title>
+      <link>https://afterdark.fireside.fm/313</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/313</guid>
+      <pubDate>Fri, 21 Dec 2012 16:00:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/f5f26a41-5859-4b1d-b97e-bbbf23d5feca.mp3" length="6223908" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John talk after Hypercritical episode 99.</itunes:subtitle>
+      <itunes:duration>12:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John talk after Hypercritical episode 99.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John talk after Hypercritical episode 99.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John talk after Hypercritical episode 99.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+8y77o-GU</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+8y77o-GU" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -90,6 +142,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 306: 306: After Hypercritical #98</title>
+      <link>https://afterdark.fireside.fm/306</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/306</guid>
+      <pubDate>Fri, 14 Dec 2012 16:15:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/6f3337c9-6c39-4e71-afe0-99d2c7267861.mp3" length="3842168" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan &amp; John talk after Hypercritical episode 98.</itunes:subtitle>
+      <itunes:duration>7:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan &amp;amp; John talk after Hypercritical episode 98.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan &amp; John talk after Hypercritical episode 98.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan &amp; John talk after Hypercritical episode 98.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+XV9kqTRv</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+XV9kqTRv" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 98: 98: Hardware Machismo</title>
       <link>https://hypercritical.fireside.fm/98</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/98</guid>
@@ -118,6 +196,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+E9z8xug1</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+E9z8xug1" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 298: 298: After Hypercritical #97</title>
+      <link>https://afterdark.fireside.fm/298</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/298</guid>
+      <pubDate>Wed, 05 Dec 2012 15:30:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/de7740d0-8ad0-49b7-9d64-bd6344a19c78.mp3" length="4008516" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan &amp; John talk after Hypercritical episode 97.</itunes:subtitle>
+      <itunes:duration>7:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan &amp;amp; John talk after Hypercritical episode 97.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan &amp; John talk after Hypercritical episode 97.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan &amp; John talk after Hypercritical episode 97.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+tqP-jMEm</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+tqP-jMEm" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -150,6 +254,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+0vhaJnHP</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+0vhaJnHP" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 291: 291: After Hypercritical #96</title>
+      <link>https://afterdark.fireside.fm/291</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/291</guid>
+      <pubDate>Fri, 30 Nov 2012 14:45:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/04b1d81e-8e3b-4fc6-9c68-9ea83af9a29f.mp3" length="6532362" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John talk after Hypercritical episode 96.</itunes:subtitle>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John talk after Hypercritical episode 96.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John talk after Hypercritical episode 96.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John talk after Hypercritical episode 96.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+Qn48ey8Z</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+Qn48ey8Z" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -217,6 +347,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 273: 273: After Hypercritical #94</title>
+      <link>https://afterdark.fireside.fm/273</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/273</guid>
+      <pubDate>Fri, 16 Nov 2012 13:15:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/2553a9c0-2744-4103-934f-8b13226a3655.mp3" length="3091513" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 94.</itunes:subtitle>
+      <itunes:duration>5:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 94.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 94.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 94.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+oURXUZFP</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+oURXUZFP" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 94: 94: Shrink, Shrink, Shrink!</title>
       <link>https://hypercritical.fireside.fm/94</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/94</guid>
@@ -249,6 +405,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 267: 267: After Hypercritical #93</title>
+      <link>https://afterdark.fireside.fm/267</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/267</guid>
+      <pubDate>Fri, 09 Nov 2012 16:00:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/90ce061d-e402-4da8-ae1f-a27c2e28d23f.mp3" length="6344698" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 93.</itunes:subtitle>
+      <itunes:duration>12:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 93.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 93.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 93.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+w_EJ94n8</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+w_EJ94n8" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 93: 93: A Magic Elf in My Computer</title>
       <link>https://hypercritical.fireside.fm/93</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/93</guid>
@@ -278,6 +460,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+-B_zCub0</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+-B_zCub0" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 262: 262: After Hypercritical #92</title>
+      <link>https://afterdark.fireside.fm/262</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/262</guid>
+      <pubDate>Fri, 02 Nov 2012 18:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/03a1c297-2e56-4a9f-90d2-9af4057ffa6e.mp3" length="8020924" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 92.</itunes:subtitle>
+      <itunes:duration>15:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 92.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 92.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 92.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+pDTn9VFY</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+pDTn9VFY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -345,6 +553,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 257: 257: After Hypercritical #90</title>
+      <link>https://afterdark.fireside.fm/257</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/257</guid>
+      <pubDate>Fri, 19 Oct 2012 15:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/3088bb28-cee1-42bc-a869-95df4252d879.mp3" length="4358560" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 90.</itunes:subtitle>
+      <itunes:duration>8:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 90.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 90.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 90.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+2cteLABm</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+2cteLABm" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 90: 90: Salad Days</title>
       <link>https://hypercritical.fireside.fm/90</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/90</guid>
@@ -374,6 +608,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+qLvo2uT8</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+qLvo2uT8" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 251: 251: After Hypercritical #89: Not Mama</title>
+      <link>https://afterdark.fireside.fm/251</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/251</guid>
+      <pubDate>Sun, 14 Oct 2012 15:30:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/b7bb53b9-8cc2-4701-8f1c-11c9905683a3.mp3" length="9201046" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin, and John Siracusa after Hypercritical episode 89.</itunes:subtitle>
+      <itunes:duration>18:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin, and John Siracusa after Hypercritical episode 89.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin, and John Siracusa after Hypercritical episode 89.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin, and John Siracusa after Hypercritical episode 89.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+qNyM__i6</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+qNyM__i6" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -409,6 +669,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 246: 246: After Hypercritical #88</title>
+      <link>https://afterdark.fireside.fm/246</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/246</guid>
+      <pubDate>Fri, 05 Oct 2012 13:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/ccbd6532-2af7-47ef-96e7-0d67919cb5a5.mp3" length="4556255" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 88.</itunes:subtitle>
+      <itunes:duration>8:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 88.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 88.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin, John Siracusa, and Haddie Cooke after Hypercritical episode 88.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+NXhU5QVS</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+NXhU5QVS" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 88: 88: Nobody Leaves Email</title>
       <link>https://hypercritical.fireside.fm/88</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/88</guid>
@@ -438,6 +724,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+xroTla87</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+xroTla87" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 239: 239: After Hypercritical #87</title>
+      <link>https://afterdark.fireside.fm/239</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/239</guid>
+      <pubDate>Fri, 28 Sep 2012 15:30:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/c39cb58e-2c0a-4175-83fe-3b438e2794ee.mp3" length="7707458" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 87.</itunes:subtitle>
+      <itunes:duration>15:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 87.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 87.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 87.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+evkaARCI</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+evkaARCI" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -473,6 +785,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 235: 235: After Hypercritical #86</title>
+      <link>https://afterdark.fireside.fm/235</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/235</guid>
+      <pubDate>Fri, 21 Sep 2012 15:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/fbc19b8d-cbe0-497f-8434-2ebd05df8366.mp3" length="13027446" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 86.</itunes:subtitle>
+      <itunes:duration>26:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 86.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 86.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 86.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+ppL1kVbf</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+ppL1kVbf" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 86: 86: Naked Robotic Core</title>
       <link>https://hypercritical.fireside.fm/86</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/86</guid>
@@ -502,6 +840,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+V9jybDxM</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+V9jybDxM" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 229: 229: After Hypercritical #85</title>
+      <link>https://afterdark.fireside.fm/229</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/229</guid>
+      <pubDate>Wed, 12 Sep 2012 13:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/306e229c-bd5f-44f9-8247-261daf68cf28.mp3" length="3276464" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 85.</itunes:subtitle>
+      <itunes:duration>5:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 85.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 85.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 85.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+w0htKWw1</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+w0htKWw1" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -537,6 +901,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 226: 226: After Hypercritical #84</title>
+      <link>https://afterdark.fireside.fm/226</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/226</guid>
+      <pubDate>Fri, 07 Sep 2012 17:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/f7b57f4d-e6f5-4c4a-a3b8-ef47b092215b.mp3" length="11104004" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 84.</itunes:subtitle>
+      <itunes:duration>22:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 84.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 84.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 84.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+5pqH6JbC</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+5pqH6JbC" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 84: 84: Spared No Expense</title>
       <link>https://hypercritical.fireside.fm/84</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/84</guid>
@@ -566,6 +956,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+yFjM0a22</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+yFjM0a22" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 222: 222: After Hypercritical #83</title>
+      <link>https://afterdark.fireside.fm/222</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/222</guid>
+      <pubDate>Fri, 31 Aug 2012 18:30:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/537e30b4-2fa4-4eeb-a487-7886e73d6ff1.mp3" length="7373300" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 83.</itunes:subtitle>
+      <itunes:duration>14:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 83.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 83.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 83.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+bHADqGdC</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+bHADqGdC" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -633,6 +1049,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 214: 214: After Hypercritical #81</title>
+      <link>https://afterdark.fireside.fm/214</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/214</guid>
+      <pubDate>Fri, 17 Aug 2012 14:30:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/e9086fcc-8192-4439-9432-e45725d896dc.mp3" length="8942319" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 81.</itunes:subtitle>
+      <itunes:duration>17:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 81.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 81.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 81.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+8xjbs5BE</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+8xjbs5BE" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 81: 81: Channels of Control</title>
       <link>https://hypercritical.fireside.fm/81</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/81</guid>
@@ -697,6 +1139,36 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 205: 205: After Hypercritical #79</title>
+      <link>https://afterdark.fireside.fm/205</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/205</guid>
+      <pubDate>Fri, 03 Aug 2012 15:45:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/708552ef-ea19-4096-81c2-43d561298444.mp3" length="10276863" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.</itunes:subtitle>
+      <itunes:duration>20:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://ibird.com/" class="link" target="_blank"&gt;iBird | the world&amp;#x27;s best selling field guide app&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt; 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.</p>
+
+<p><p>Links for this episode:</p><ul><li><a href="http://ibird.com/" class="link" target="_blank">iBird | the world&#x27;s best selling field guide app</a><br /></li></ul></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.</p>
+
+<p><p>Links for this episode:</p><ul><li><a href="http://ibird.com/" class="link" target="_blank">iBird | the world&#x27;s best selling field guide app</a><br /></li></ul></p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+7aAFTMrc</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+7aAFTMrc" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 79: 79: Grandpa Uncle Joe</title>
       <link>https://hypercritical.fireside.fm/79</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/79</guid>
@@ -729,6 +1201,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 202: 202: After Hypercritical #78</title>
+      <link>https://afterdark.fireside.fm/202</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/202</guid>
+      <pubDate>Fri, 27 Jul 2012 16:30:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/7f90f9b7-8649-4eb6-abc5-f54a5783eeea.mp3" length="4293400" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 78.</itunes:subtitle>
+      <itunes:duration>8:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 78.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 78.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 78.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+z5GpGuwu</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+z5GpGuwu" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 78: 78: Sins of the Father</title>
       <link>https://hypercritical.fireside.fm/78</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/78</guid>
@@ -758,6 +1256,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+ZZShsI1E</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+ZZShsI1E" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 198: 198: After Hypercritical #77</title>
+      <link>https://afterdark.fireside.fm/198</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/198</guid>
+      <pubDate>Fri, 20 Jul 2012 15:45:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/c9fd6c10-e261-49dc-83dd-8470f3194f0c.mp3" length="7471562" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 77.</itunes:subtitle>
+      <itunes:duration>14:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 77.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 77.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 77.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+n0HcD1pm</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+n0HcD1pm" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -857,6 +1381,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 183: 183: After Hypercritical #74</title>
+      <link>https://afterdark.fireside.fm/183</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/183</guid>
+      <pubDate>Fri, 29 Jun 2012 15:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/05e56d9c-dbd0-4880-ac13-769c8085683a.mp3" length="4244917" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 74.</itunes:subtitle>
+      <itunes:duration>7:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 74.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 74.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 74.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+gtKfOdni</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+gtKfOdni" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 74: 74: Everybody Wants to Rule the World</title>
       <link>https://hypercritical.fireside.fm/74</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/74</guid>
@@ -886,6 +1436,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+nJSoqX5A</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+nJSoqX5A" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 176: 176: After Hypercritical #73</title>
+      <link>https://afterdark.fireside.fm/176</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/176</guid>
+      <pubDate>Fri, 22 Jun 2012 13:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/409ae586-1188-4e1d-998e-501719eb2b35.mp3" length="3509309" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 73.</itunes:subtitle>
+      <itunes:duration>6:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 73.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 73.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 73.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+cF7v8Wj3</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+cF7v8Wj3" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -985,6 +1561,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 167: 167: After Hypercritical #70</title>
+      <link>https://afterdark.fireside.fm/167</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/167</guid>
+      <pubDate>Fri, 01 Jun 2012 14:45:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/e6ffe1e2-50be-437a-828f-5acbc35ffd50.mp3" length="13780029" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 70.</itunes:subtitle>
+      <itunes:duration>27:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 70.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 70.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 70.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+1Q-iMsdB</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+1Q-iMsdB" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 70: 70: Deja Vu</title>
       <link>https://hypercritical.fireside.fm/70</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/70</guid>
@@ -1014,6 +1616,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+u8ExOmTF</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+u8ExOmTF" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 161: 161: After Hypercritical #69</title>
+      <link>https://afterdark.fireside.fm/161</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/161</guid>
+      <pubDate>Fri, 25 May 2012 15:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/b04173a8-8c6f-4e8c-af4b-ed4a38386b97.mp3" length="10878974" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 69.</itunes:subtitle>
+      <itunes:duration>21:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 69.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 69.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 69.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+J1UesaWi</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+J1UesaWi" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1049,6 +1677,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 158: 158: After Hypercritical #68</title>
+      <link>https://afterdark.fireside.fm/158</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/158</guid>
+      <pubDate>Fri, 18 May 2012 14:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/ae5effdf-337f-48d8-a72c-9e320cdbfe1a.mp3" length="3630517" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 68.</itunes:subtitle>
+      <itunes:duration>6:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 68.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 68.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 68.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+FOh1JFWq</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+FOh1JFWq" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 68: 68: Patent Hands</title>
       <link>https://hypercritical.fireside.fm/68</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/68</guid>
@@ -1078,6 +1732,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+cssy_QD_</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+cssy_QD_" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 153: 153: After Hypercritical #67</title>
+      <link>https://afterdark.fireside.fm/153</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/153</guid>
+      <pubDate>Fri, 11 May 2012 15:30:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/ff039661-df3f-4ce5-bdc2-35ab204b4dca.mp3" length="4373439" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 67.</itunes:subtitle>
+      <itunes:duration>8:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 67.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 67.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 67.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+SCLhVzSG</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+SCLhVzSG" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1113,6 +1793,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 150: 150: After Hypercritical #66</title>
+      <link>https://afterdark.fireside.fm/150</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/150</guid>
+      <pubDate>Fri, 04 May 2012 18:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/97e9dfc1-4ca5-4722-8391-6b1cb4ae01bb.mp3" length="16472940" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 66.</itunes:subtitle>
+      <itunes:duration>33:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 66.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 66.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 66.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+hhIJBo7s</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+hhIJBo7s" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 66: 66: The Housewives of Siracusa County</title>
       <link>https://hypercritical.fireside.fm/66</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/66</guid>
@@ -1142,6 +1848,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+Z7SGAp-0</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+Z7SGAp-0" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 147: 147: After Hypercritical #65</title>
+      <link>https://afterdark.fireside.fm/147</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/147</guid>
+      <pubDate>Fri, 27 Apr 2012 15:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/b9935c76-7bd6-4382-99a9-e4e4bd40a73d.mp3" length="12681344" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 65.</itunes:subtitle>
+      <itunes:duration>25:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 65.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 65.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 65.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+pN6dGlhd</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+pN6dGlhd" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1177,6 +1909,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 144: 144: After Hypercritical #64</title>
+      <link>https://afterdark.fireside.fm/144</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/144</guid>
+      <pubDate>Fri, 20 Apr 2012 15:45:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/a8a0628f-ffd7-420a-b53e-8098e7f1df48.mp3" length="11335808" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 64.</itunes:subtitle>
+      <itunes:duration>22:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 64.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 64.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 64.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+X4_DcdNb</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+X4_DcdNb" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 64: 64: You Will Die Instantly!</title>
       <link>https://hypercritical.fireside.fm/64</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/64</guid>
@@ -1206,6 +1964,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+lov2KL23</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+lov2KL23" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 140: 140: After Hypercritical #63</title>
+      <link>https://afterdark.fireside.fm/140</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/140</guid>
+      <pubDate>Fri, 13 Apr 2012 15:30:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/2b87c854-c6bb-4f2f-940b-cb9b476df6c4.mp3" length="5318784" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 63.</itunes:subtitle>
+      <itunes:duration>10:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 63.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 63.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 63.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+vziqydS2</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+vziqydS2" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1241,6 +2025,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 136: 136: After Hypercritical #62</title>
+      <link>https://afterdark.fireside.fm/136</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/136</guid>
+      <pubDate>Fri, 06 Apr 2012 17:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/c7ad4b01-00a4-47f6-a615-9034f04a0105.mp3" length="10031232" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 62.</itunes:subtitle>
+      <itunes:duration>20:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 62.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 62.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 62.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+YI4nC-GU</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+YI4nC-GU" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 62: 62: A Sack Containing Scum from a Pond</title>
       <link>https://hypercritical.fireside.fm/62</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/62</guid>
@@ -1270,6 +2080,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+JP8oN6IE</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+JP8oN6IE" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 128: 128: After Hypercritical #61</title>
+      <link>https://afterdark.fireside.fm/128</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/128</guid>
+      <pubDate>Fri, 30 Mar 2012 15:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/37244bf8-6b7c-4361-961c-e12272307fe0.mp3" length="6617216" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 61.</itunes:subtitle>
+      <itunes:duration>12:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 61.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 61.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 61.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+lBCy2nXW</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+lBCy2nXW" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1305,6 +2141,32 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 125: 125: After Hypercritical #60</title>
+      <link>https://afterdark.fireside.fm/125</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/125</guid>
+      <pubDate>Fri, 23 Mar 2012 15:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/50365495-0ccc-41dc-b65e-ddd8391c09b3.mp3" length="9228416" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration>18:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after After Dark episode 60.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after After Dark episode 60.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after After Dark episode 60.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+2xZ8D7qB</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+2xZ8D7qB" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 60: 60: Reversing the Polarity</title>
       <link>https://hypercritical.fireside.fm/60</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/60</guid>
@@ -1334,6 +2196,32 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+OqtcS_Xt</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+OqtcS_Xt" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 121: 121: After Hypercritical #59</title>
+      <link>https://afterdark.fireside.fm/121</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/121</guid>
+      <pubDate>Fri, 16 Mar 2012 16:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/993c5c21-6a63-4f1b-9615-6e299df777a9.mp3" length="5027968" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration>9:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 59.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 59.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 59.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+GMiqsbFH</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+GMiqsbFH" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1401,6 +2289,33 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 111: 110: After Hypercritical #57</title>
+      <link>https://afterdark.fireside.fm/111</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/110</guid>
+      <pubDate>Fri, 02 Mar 2012 15:45:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/0a9a40a3-1708-49e4-9ae5-26979fe6ad25.mp3" length="13870520" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 57.
+</itunes:subtitle>
+      <itunes:duration>28:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 57.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 57.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 57.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+Wwg9semu</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+Wwg9semu" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 57: 57: Computational Skeuomorphism</title>
       <link>https://hypercritical.fireside.fm/57</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/57</guid>
@@ -1430,6 +2345,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+vArw86Rm</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+vArw86Rm" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 106: 106: After Hypercritical #56</title>
+      <link>https://afterdark.fireside.fm/106</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/106</guid>
+      <pubDate>Fri, 24 Feb 2012 16:00:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/8e10e890-877d-45b5-821c-a41387affd16.mp3" length="17438848" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration>35:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 56.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://appsfire.com/5by5" title="AppsFire"&gt;AppsFire&lt;/a&gt; and &lt;a href="http://www.mailchimp.com/?pid=5by5&amp;source=website" title="MailChimp"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 56.</p>
+
+<p>Sponsored by <a href="http://appsfire.com/5by5" title="AppsFire">AppsFire</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 56.</p>
+
+<p>Sponsored by <a href="http://appsfire.com/5by5" title="AppsFire">AppsFire</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+QsYAv1qB</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+QsYAv1qB" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1529,6 +2475,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 94: 94: After Hypercritical #53</title>
+      <link>https://afterdark.fireside.fm/94</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/94</guid>
+      <pubDate>Fri, 03 Feb 2012 16:00:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/b15cfa7d-aca8-4948-b05f-837aebafc325.mp3" length="30888064" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration>1:03:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 53.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.freshbooks.com?ref=1014" title="FreshBooks"&gt;FreshBooks&lt;/a&gt; and &lt;a href="http://www.mailchimp.com/?pid=5by5&amp;source=website" title="MailChimp"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 53.</p>
+
+<p>Sponsored by <a href="http://www.freshbooks.com?ref=1014" title="FreshBooks">FreshBooks</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 53.</p>
+
+<p>Sponsored by <a href="http://www.freshbooks.com?ref=1014" title="FreshBooks">FreshBooks</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+IwSy3Lg9</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+IwSy3Lg9" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 53: 53: Brad Pitt Gets to Contribute</title>
       <link>https://hypercritical.fireside.fm/53</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/53</guid>
@@ -1558,6 +2535,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+_O55P4Oa</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+_O55P4Oa" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 90: 90: After Hypercritical #52</title>
+      <link>https://afterdark.fireside.fm/90</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/90</guid>
+      <pubDate>Fri, 27 Jan 2012 15:00:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/fef30d91-23f5-45fc-aab9-4b167fcd09d4.mp3" length="4176000" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 52.</itunes:subtitle>
+      <itunes:duration>7:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 52.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://freemanoshea.posterous.com/datacusa" class="link" target="_blank"&gt;Datacusa&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://freemanoshea.posterous.com/danbenjamin-just-so-you-dont-feel-left-out" class="link" target="_blank"&gt;Spider-Dan&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://freemanoshea.posterous.com/danbenjamin-there-thats-better" class="link" target="_blank"&gt;Game of Merlins&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://freemanoshea.posterous.com/gruber-i-think-you-need-to-update-the-df-colo" class="link" target="_blank"&gt;Captain Gruber&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sponsored by &lt;a href="http://mindnode.com" title="MindNode"&gt;MindNode&lt;/a&gt; and &lt;a href="http://www.sourcebits.com" title="Sourcebits"&gt;Sourcebits&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 52.</p>
+
+<p>Links for this episode:</p><ul><li><a href="http://freemanoshea.posterous.com/datacusa" class="link" target="_blank">Datacusa</a><br /></li><li><a href="http://freemanoshea.posterous.com/danbenjamin-just-so-you-dont-feel-left-out" class="link" target="_blank">Spider-Dan</a><br /></li><li><a href="http://freemanoshea.posterous.com/danbenjamin-there-thats-better" class="link" target="_blank">Game of Merlins</a><br /></li><li><a href="http://freemanoshea.posterous.com/gruber-i-think-you-need-to-update-the-df-colo" class="link" target="_blank">Captain Gruber</a><br /></li></ul><p>Sponsored by <a href="http://mindnode.com" title="MindNode">MindNode</a> and <a href="http://www.sourcebits.com" title="Sourcebits">Sourcebits</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 52.</p>
+
+<p>Links for this episode:</p><ul><li><a href="http://freemanoshea.posterous.com/datacusa" class="link" target="_blank">Datacusa</a><br /></li><li><a href="http://freemanoshea.posterous.com/danbenjamin-just-so-you-dont-feel-left-out" class="link" target="_blank">Spider-Dan</a><br /></li><li><a href="http://freemanoshea.posterous.com/danbenjamin-there-thats-better" class="link" target="_blank">Game of Merlins</a><br /></li><li><a href="http://freemanoshea.posterous.com/gruber-i-think-you-need-to-update-the-df-colo" class="link" target="_blank">Captain Gruber</a><br /></li></ul><p>Sponsored by <a href="http://mindnode.com" title="MindNode">MindNode</a> and <a href="http://www.sourcebits.com" title="Sourcebits">Sourcebits</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+b-04FfA5</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+b-04FfA5" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1593,6 +2601,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 86: 86: After Hypercritical #51</title>
+      <link>https://afterdark.fireside.fm/86</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/86</guid>
+      <pubDate>Fri, 20 Jan 2012 14:45:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/ac0ffe80-b2e4-4fe1-82b0-a8cd07018d97.mp3" length="18532480" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 51.</itunes:subtitle>
+      <itunes:duration>37:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 51.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://vidmeup.com/" title="Vidmeup"&gt;Vidmeup&lt;/a&gt; and &lt;a href="https://stripe.com/?from=5by5" title="Stripe"&gt;Stripe&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 51.</p>
+
+<p>Sponsored by <a href="http://vidmeup.com/" title="Vidmeup">Vidmeup</a> and <a href="https://stripe.com/?from=5by5" title="Stripe">Stripe</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 51.</p>
+
+<p>Sponsored by <a href="http://vidmeup.com/" title="Vidmeup">Vidmeup</a> and <a href="https://stripe.com/?from=5by5" title="Stripe">Stripe</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+CtSCInPq</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+CtSCInPq" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 51: 51: Unjustified Confidence</title>
       <link>https://hypercritical.fireside.fm/51</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/51</guid>
@@ -1625,6 +2664,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 82: 82: After Hypercritical #50</title>
+      <link>https://afterdark.fireside.fm/82</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/82</guid>
+      <pubDate>Fri, 13 Jan 2012 14:15:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/39061090-4aed-4593-9ac3-8f0dd23faab8.mp3" length="19198080" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>John Siracusa and Dan Benjamin after Hypercritical #50.</itunes:subtitle>
+      <itunes:duration>39:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;John Siracusa and Dan Benjamin after Hypercritical #50.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.getharvest.com/5by5" title="Harvest"&gt;Harvest&lt;/a&gt; and &lt;a href="http://www.rackspace.com/5by5" title="Rackspace"&gt;Rackspace&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>John Siracusa and Dan Benjamin after Hypercritical #50.</p>
+
+<p>Sponsored by <a href="http://www.getharvest.com/5by5" title="Harvest">Harvest</a> and <a href="http://www.rackspace.com/5by5" title="Rackspace">Rackspace</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>John Siracusa and Dan Benjamin after Hypercritical #50.</p>
+
+<p>Sponsored by <a href="http://www.getharvest.com/5by5" title="Harvest">Harvest</a> and <a href="http://www.rackspace.com/5by5" title="Rackspace">Rackspace</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+8i3dQ_aw</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+8i3dQ_aw" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 50: 50: Maximum Deflection in All Directions</title>
       <link>https://hypercritical.fireside.fm/50</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/50</guid>
@@ -1654,6 +2724,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+rR1kUQOn</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+rR1kUQOn" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 79: 79: After Hypercritical #49</title>
+      <link>https://afterdark.fireside.fm/79</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/79</guid>
+      <pubDate>Fri, 06 Jan 2012 19:30:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/6e1e6545-555e-4726-9943-10218f2bff82.mp3" length="5159040" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 49.</itunes:subtitle>
+      <itunes:duration>9:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 49.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.mailchimp.com/?pid=5by5&amp;source=website" title="MailChimp"&gt;MailChimp&lt;/a&gt; and &lt;a href="http://www.shopify.com/?utm_source=5by5&amp;utm_medium=banner&amp;utm_campaign=broad" title="Shopify"&gt;Shopify&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 49.</p>
+
+<p>Sponsored by <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a> and <a href="http://www.shopify.com/?utm_source=5by5&utm_medium=banner&utm_campaign=broad" title="Shopify">Shopify</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 49.</p>
+
+<p>Sponsored by <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a> and <a href="http://www.shopify.com/?utm_source=5by5&utm_medium=banner&utm_campaign=broad" title="Shopify">Shopify</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+gAe_n3fl</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+gAe_n3fl" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1718,6 +2819,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+TvnnFO8Q</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+TvnnFO8Q" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 73: 73: After Hypercritical #47</title>
+      <link>https://afterdark.fireside.fm/73</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/73</guid>
+      <pubDate>Fri, 23 Dec 2011 18:45:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/044266a6-67ad-4946-932d-7ad1a0f79726.mp3" length="17221760" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 47.</itunes:subtitle>
+      <itunes:duration>35:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 47.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://tinyletter.com/" title="TinyLetter"&gt;TinyLetter&lt;/a&gt; and &lt;a href="http://handelabra.com/5by5" title="Uncle Slam"&gt;Uncle Slam&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 47.</p>
+
+<p>Sponsored by <a href="http://tinyletter.com/" title="TinyLetter">TinyLetter</a> and <a href="http://handelabra.com/5by5" title="Uncle Slam">Uncle Slam</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 47.</p>
+
+<p>Sponsored by <a href="http://tinyletter.com/" title="TinyLetter">TinyLetter</a> and <a href="http://handelabra.com/5by5" title="Uncle Slam">Uncle Slam</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+d7ogyfgG</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+d7ogyfgG" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1817,6 +2949,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 61: 61: After Hypercritical #44</title>
+      <link>https://afterdark.fireside.fm/61</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/61</guid>
+      <pubDate>Fri, 25 Nov 2011 18:00:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/09a2b304-4820-4f31-947a-2b70baedced4.mp3" length="13297792" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John after Hypercritical episode 44.</itunes:subtitle>
+      <itunes:duration>26:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John after Hypercritical episode 44.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.unitedpixelworkers.com/" title="United Pixelworkers"&gt;United Pixelworkers&lt;/a&gt; and &lt;a href="http://www.mailchimp.com/?pid=5by5&amp;source=website" title="MailChimp"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John after Hypercritical episode 44.</p>
+
+<p>Sponsored by <a href="http://www.unitedpixelworkers.com/" title="United Pixelworkers">United Pixelworkers</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John after Hypercritical episode 44.</p>
+
+<p>Sponsored by <a href="http://www.unitedpixelworkers.com/" title="United Pixelworkers">United Pixelworkers</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+D5XaEkx3</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+D5XaEkx3" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 44: 44: A Little Bit More Sad</title>
       <link>https://hypercritical.fireside.fm/44</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/44</guid>
@@ -1846,6 +3009,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+wmRJYYrg</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+wmRJYYrg" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 59: 59: After Hypercritical #43</title>
+      <link>https://afterdark.fireside.fm/59</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/59</guid>
+      <pubDate>Fri, 18 Nov 2011 15:15:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/44497fd5-1ce4-4c6a-8ca9-6b435f15b1b8.mp3" length="3276928" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 43. </itunes:subtitle>
+      <itunes:duration>5:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 43.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.shopify.com/?utm_source=5by5&amp;utm_medium=banner&amp;utm_campaign=broad" title="Shopify"&gt;Shopify&lt;/a&gt; and &lt;a href="http://squarespace.com/5by5" title="Squarespace"&gt;Squarespace&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 43.</p>
+
+<p>Sponsored by <a href="http://www.shopify.com/?utm_source=5by5&utm_medium=banner&utm_campaign=broad" title="Shopify">Shopify</a> and <a href="http://squarespace.com/5by5" title="Squarespace">Squarespace</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 43.</p>
+
+<p>Sponsored by <a href="http://www.shopify.com/?utm_source=5by5&utm_medium=banner&utm_campaign=broad" title="Shopify">Shopify</a> and <a href="http://squarespace.com/5by5" title="Squarespace">Squarespace</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+FtKmBwUg</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+FtKmBwUg" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -1881,6 +3075,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 57: 57: After Hypercritical #42</title>
+      <link>https://afterdark.fireside.fm/57</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/57</guid>
+      <pubDate>Fri, 11 Nov 2011 13:15:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/d5f102c8-d924-4587-977b-3bef54e8575e.mp3" length="8124544" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 42. </itunes:subtitle>
+      <itunes:duration>16:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 42.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://raven.io" title="Raven"&gt;Raven&lt;/a&gt; and &lt;a href="http://www.reinvigorate.net/?source=Display&amp;details=60190" title="Reinvigorate"&gt;Reinvigorate&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 42.</p>
+
+<p>Sponsored by <a href="http://raven.io" title="Raven">Raven</a> and <a href="http://www.reinvigorate.net/?source=Display&details=60190" title="Reinvigorate">Reinvigorate</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 42.</p>
+
+<p>Sponsored by <a href="http://raven.io" title="Raven">Raven</a> and <a href="http://www.reinvigorate.net/?source=Display&details=60190" title="Reinvigorate">Reinvigorate</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+eNFav-Y3</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+eNFav-Y3" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 42: 42: The Wrong Guy</title>
       <link>https://hypercritical.fireside.fm/42</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/42</guid>
@@ -1913,6 +3138,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 55: 55: After Hypercritical #41</title>
+      <link>https://afterdark.fireside.fm/55</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/55</guid>
+      <pubDate>Fri, 04 Nov 2011 15:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/e60eac86-8c2e-4638-b4db-82d8f7ec4ca8.mp3" length="8034432" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 41. </itunes:subtitle>
+      <itunes:duration>15:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 41.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.barebones.com/5by5" title="Bare Bones"&gt;Bare Bones&lt;/a&gt; and &lt;a href="http://www.mailchimp.com/?pid=5by5&amp;source=website" title="MailChimp"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 41.</p>
+
+<p>Sponsored by <a href="http://www.barebones.com/5by5" title="Bare Bones">Bare Bones</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 41.</p>
+
+<p>Sponsored by <a href="http://www.barebones.com/5by5" title="Bare Bones">Bare Bones</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+KphL6wP5</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+KphL6wP5" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 41: 41: The Homer</title>
       <link>https://hypercritical.fireside.fm/41</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/41-the-homer</guid>
@@ -1942,6 +3198,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+FoW9KZy1</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+FoW9KZy1" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 52: 52: After Hypercritical #40</title>
+      <link>https://afterdark.fireside.fm/52</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/52-after-hypercritical-40</guid>
+      <pubDate>Fri, 28 Oct 2011 15:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/9f347826-0c26-4b39-b03d-2ad1e3aa0a52.mp3" length="11829376" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 40.</itunes:subtitle>
+      <itunes:duration>23:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 40.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://squarespace.com/5by5" title="Squarespace"&gt;Squarespace&lt;/a&gt; and &lt;a href="http://tinyletter.com/" title="TinyLetter"&gt;TinyLetter&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 40.</p>
+
+<p>Sponsored by <a href="http://squarespace.com/5by5" title="Squarespace">Squarespace</a> and <a href="http://tinyletter.com/" title="TinyLetter">TinyLetter</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 40.</p>
+
+<p>Sponsored by <a href="http://squarespace.com/5by5" title="Squarespace">Squarespace</a> and <a href="http://tinyletter.com/" title="TinyLetter">TinyLetter</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+EH30Yrmc</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+EH30Yrmc" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -2489,6 +3776,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 31: 31: After Hypercritical 023</title>
+      <link>https://afterdark.fireside.fm/31</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/31</guid>
+      <pubDate>Fri, 24 Jun 2011 19:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/9086990d-7570-4a8b-9295-3923b2f1d061.mp3" length="10401920" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 23.</itunes:subtitle>
+      <itunes:duration>20:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 23.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.omnigroup.com/products/omnifocus/" title="OmniGroup: OmniFocus"&gt;OmniGroup: OmniFocus&lt;/a&gt; and &lt;a href="http://itunes.apple.com/us/app/worthwhile/id439998021?mt=8&amp;partnerId=30&amp;siteID=IzE7m699rYo-mTy4qxi6G4dXtA3aUuQszQ" title="Worthwhile"&gt;Worthwhile&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 23.</p>
+
+<p>Sponsored by <a href="http://www.omnigroup.com/products/omnifocus/" title="OmniGroup: OmniFocus">OmniGroup: OmniFocus</a> and <a href="http://itunes.apple.com/us/app/worthwhile/id439998021?mt=8&partnerId=30&siteID=IzE7m699rYo-mTy4qxi6G4dXtA3aUuQszQ" title="Worthwhile">Worthwhile</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 23.</p>
+
+<p>Sponsored by <a href="http://www.omnigroup.com/products/omnifocus/" title="OmniGroup: OmniFocus">OmniGroup: OmniFocus</a> and <a href="http://itunes.apple.com/us/app/worthwhile/id439998021?mt=8&partnerId=30&siteID=IzE7m699rYo-mTy4qxi6G4dXtA3aUuQszQ" title="Worthwhile">Worthwhile</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+2bL-CD5K</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+2bL-CD5K" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 23: 23: No Sentence Left Behind</title>
       <link>https://hypercritical.fireside.fm/23</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/23</guid>
@@ -2681,6 +3999,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 23: 23: After Hypercritical 017</title>
+      <link>https://afterdark.fireside.fm/23</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/23</guid>
+      <pubDate>Fri, 13 May 2011 17:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/a956c8a0-5e30-40e3-ade0-d7275cfc602b.mp3" length="7329920" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 17.</itunes:subtitle>
+      <itunes:duration>14:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 17.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.freshbooks.com?ref=1014" title="FreshBooks"&gt;FreshBooks&lt;/a&gt; and &lt;a href="http://www.omnigroup.com/products/omnifocus/" title="OmniGroup: OmniFocus"&gt;OmniGroup: OmniFocus&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 17.</p>
+
+<p>Sponsored by <a href="http://www.freshbooks.com?ref=1014" title="FreshBooks">FreshBooks</a> and <a href="http://www.omnigroup.com/products/omnifocus/" title="OmniGroup: OmniFocus">OmniGroup: OmniFocus</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 17.</p>
+
+<p>Sponsored by <a href="http://www.freshbooks.com?ref=1014" title="FreshBooks">FreshBooks</a> and <a href="http://www.omnigroup.com/products/omnifocus/" title="OmniGroup: OmniFocus">OmniGroup: OmniFocus</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+byuvuEPL</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+byuvuEPL" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 17: 17: Intruding Gooseneck</title>
       <link>https://hypercritical.fireside.fm/17</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/17</guid>
@@ -2710,6 +4059,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+R19L4IzU</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+R19L4IzU" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 21: 21: After Hypercritical 016</title>
+      <link>https://afterdark.fireside.fm/21</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/21</guid>
+      <pubDate>Fri, 06 May 2011 18:00:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/5d550777-2f40-4ce9-9876-2520a6d877ef.mp3" length="10696832" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 16.</itunes:subtitle>
+      <itunes:duration>21:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 16.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.webtrends.com/products/analytics?source=Display&amp;details=60022&amp;WT.mc_id=A105by5Leaderboards_60022" title="Webtrends"&gt;Webtrends&lt;/a&gt; and &lt;a href="http://www.mailchimp.com/?pid=5by5&amp;source=website" title="MailChimp"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 16.</p>
+
+<p>Sponsored by <a href="http://www.webtrends.com/products/analytics?source=Display&details=60022&WT.mc_id=A105by5Leaderboards_60022" title="Webtrends">Webtrends</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 16.</p>
+
+<p>Sponsored by <a href="http://www.webtrends.com/products/analytics?source=Display&details=60022&WT.mc_id=A105by5Leaderboards_60022" title="Webtrends">Webtrends</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+PJKQa9X1</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+PJKQa9X1" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -2745,6 +4125,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 19: 19: After Hypercritical 015</title>
+      <link>https://afterdark.fireside.fm/19</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/19</guid>
+      <pubDate>Fri, 29 Apr 2011 18:45:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/d437276e-0bc1-4237-9b56-a5b9b90d2352.mp3" length="14819456" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 15.</itunes:subtitle>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 15.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.campaignmonitor.com/worldview/" title="Worldview"&gt;Worldview&lt;/a&gt; and &lt;a href="http://itunes.apple.com/app/intuit-blog/id421430913?mt=8?cid=soc_5by5_itunes " title="Intuit"&gt;Intuit&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 15.</p>
+
+<p>Sponsored by <a href="http://www.campaignmonitor.com/worldview/" title="Worldview">Worldview</a> and <a href="http://itunes.apple.com/app/intuit-blog/id421430913?mt=8?cid=soc_5by5_itunes " title="Intuit">Intuit</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 15.</p>
+
+<p>Sponsored by <a href="http://www.campaignmonitor.com/worldview/" title="Worldview">Worldview</a> and <a href="http://itunes.apple.com/app/intuit-blog/id421430913?mt=8?cid=soc_5by5_itunes " title="Intuit">Intuit</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+1NMa5gdX</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+1NMa5gdX" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 15: 15: The Bridges of Siracusa County</title>
       <link>https://hypercritical.fireside.fm/15</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/15</guid>
@@ -2777,6 +4188,37 @@
       </fireside:playerEmbedCode>
     </item>
     <item>
+      <title>After Dark Episode 15: 15: After Hypercritical 014</title>
+      <link>https://afterdark.fireside.fm/15</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/15</guid>
+      <pubDate>Fri, 15 Apr 2011 18:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/7c65bb9d-e37b-4196-ac07-f622365d1d25.mp3" length="15802496" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan and John Siracusa after Hypercritical episode 14.</itunes:subtitle>
+      <itunes:duration>32:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan and John Siracusa after Hypercritical episode 14.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.shopify.com/?utm_source=5by5&amp;utm_medium=banner&amp;utm_campaign=broad" title="Shopify"&gt;Shopify&lt;/a&gt; and &lt;a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=2248483&amp;PluID=0&amp;ord=[timestamp]" title="King of the Apps"&gt;King of the Apps&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 14.</p>
+
+<p>Sponsored by <a href="http://www.shopify.com/?utm_source=5by5&utm_medium=banner&utm_campaign=broad" title="Shopify">Shopify</a> and <a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=2248483&PluID=0&ord=[timestamp]" title="King of the Apps">King of the Apps</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan and John Siracusa after Hypercritical episode 14.</p>
+
+<p>Sponsored by <a href="http://www.shopify.com/?utm_source=5by5&utm_medium=banner&utm_campaign=broad" title="Shopify">Shopify</a> and <a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=2248483&PluID=0&ord=[timestamp]" title="King of the Apps">King of the Apps</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+HmQGdDws</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+HmQGdDws" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
       <title>Episode 14: 14: A Dark Age of Objective-C</title>
       <link>https://hypercritical.fireside.fm/14</link>
       <guid isPermaLink="false">http://5by5.tv/hypercritical/14</guid>
@@ -2806,6 +4248,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+wAwibM_c</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+wAwibM_c" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 11: 11: After Hypercritical 013</title>
+      <link>https://afterdark.fireside.fm/11</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/11</guid>
+      <pubDate>Fri, 08 Apr 2011 16:15:00 -0400</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/acdd7881-861a-4ed3-84e1-ab832f5181c2.mp3" length="4354176" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>Dan Benjamin and John Siracusa after Hypercritical episode 13.</itunes:subtitle>
+      <itunes:duration>8:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;Dan Benjamin and John Siracusa after Hypercritical episode 13.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.freshbooks.com?ref=1014" title="FreshBooks"&gt;FreshBooks&lt;/a&gt; and &lt;a href="http://www.mailchimp.com/?pid=5by5&amp;source=website" title="MailChimp"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 13.</p>
+
+<p>Sponsored by <a href="http://www.freshbooks.com?ref=1014" title="FreshBooks">FreshBooks</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Dan Benjamin and John Siracusa after Hypercritical episode 13.</p>
+
+<p>Sponsored by <a href="http://www.freshbooks.com?ref=1014" title="FreshBooks">FreshBooks</a> and <a href="http://www.mailchimp.com/?pid=5by5&source=website" title="MailChimp">MailChimp</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+QXoAFwcD</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+QXoAFwcD" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
@@ -3030,6 +4503,37 @@
       <fireside:playerURL>https://fireside.fm/player/v2/NyuIm8-e+rYkD58gT</fireside:playerURL>
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/NyuIm8-e+rYkD58gT" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
+    <item>
+      <title>After Dark Episode 4: 4: After Hypercritical 6</title>
+      <link>https://afterdark.fireside.fm/4</link>
+      <guid isPermaLink="false">http://web01.5by5.tv/afterdark/4</guid>
+      <pubDate>Fri, 18 Feb 2011 16:15:00 -0500</pubDate>
+      <author>5by5</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/c5b9204c-3200-41b7-aaa4-0d735e8f585b/cdc78365-0cc8-405c-809c-d68cf4e0905b.mp3" length="4880512" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>5by5</itunes:author>
+      <itunes:subtitle>John Siracusa and Dan Benjamin, after Hypercritical 6.</itunes:subtitle>
+      <itunes:duration>9:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>&lt;p&gt;John Siracusa and Dan Benjamin, after Hypercritical 6.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://sourcebits.com" title="Sourcebits"&gt;Sourcebits&lt;/a&gt; and &lt;a href="http://altfarm.mediaplex.com/ad/ck/13001-83639-38901-10" title="Audible"&gt;Audible&lt;/a&gt;.&lt;/p&gt;
+ 
+</description>
+      <content:encoded>
+        <![CDATA[<p>John Siracusa and Dan Benjamin, after Hypercritical 6.</p>
+
+<p>Sponsored by <a href="http://sourcebits.com" title="Sourcebits">Sourcebits</a> and <a href="http://altfarm.mediaplex.com/ad/ck/13001-83639-38901-10" title="Audible">Audible</a>.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>John Siracusa and Dan Benjamin, after Hypercritical 6.</p>
+
+<p>Sponsored by <a href="http://sourcebits.com" title="Sourcebits">Sourcebits</a> and <a href="http://altfarm.mediaplex.com/ad/ck/13001-83639-38901-10" title="Audible">Audible</a>.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/LJZFz56h+UtFxnJIY</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/LJZFz56h+UtFxnJIY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
     </item>
     <item>
